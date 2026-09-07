@@ -1,5 +1,22 @@
 # 💫 About Me:
-Backend developer specializing in Python, Django, and FastAPI, with production-style REST API design <br>experience across three full-stack platforms including JWT authentication and role-based access control. <br>Built and led delivery of a 167-endpoint FastAPI backend as team lead on a 6-person project that won 1st <br>place at TOPS Technologies' Venture Lab, and achieved 99% test coverage across 54-unit tests on a <br>Django financial application. Currently completing Full Stack Python Development at TOPS Technologies, <br>focused on backend architecture, API design, and scalable data modeling.
+
+I build backend systems in Python, Django, and FastAPI — REST APIs, 
+authentication layers, and data models that hold up under real use, not 
+just demo conditions.
+
+**Some numbers instead of adjectives:**
+- Architected and shipped 167 REST API endpoints (FastAPI + MySQL) as backend 
+  lead on a 6-person team — 1st place, TOPS Technologies Venture Lab
+- Built a Django finance app with 99% test coverage across 54 unit tests
+- Designed a 12-model Django social platform with OTP + Google OAuth auth
+
+**Currently:** completing Full Stack Python Development at TOPS Technologies, 
+focused on backend architecture and API design — Django ORM, JWT/RBAC, and 
+scalable data modeling.
+
+**Stack:** Python · Django · Django REST Framework · FastAPI · MySQL · SQLite
+
+📫 chvharsh@gmail.com
 
 
 ## 🌐 Socials:
