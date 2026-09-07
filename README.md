@@ -1,22 +1,190 @@
 # 💫 About Me:
 
-I build backend systems in Python, Django, and FastAPI — REST APIs, 
-authentication layers, and data models that hold up under real use, not 
-just demo conditions.
+# Harsh Chauhan
 
-**Some numbers instead of adjectives:**
-- Architected and shipped 167 REST API endpoints (FastAPI + MySQL) as backend 
-  lead on a 6-person team — 1st place, TOPS Technologies Venture Lab
-- Built a Django finance app with 99% test coverage across 54 unit tests
-- Designed a 12-model Django social platform with OTP + Google OAuth auth
+### Python Backend Developer · Django · FastAPI
 
-**Currently:** completing Full Stack Python Development at TOPS Technologies, 
-focused on backend architecture and API design — Django ORM, JWT/RBAC, and 
-scalable data modeling.
+I build backend applications with **Python**, with a focus on **Django, FastAPI, REST APIs, authentication, database design, and business logic**.
 
-**Stack:** Python · Django · Django REST Framework · FastAPI · MySQL · SQLite
+Most of my recent work has been around building complete applications rather than isolated APIs — designing the data model, implementing the backend workflows, exposing APIs, testing edge cases, and taking the application through deployment.
 
-📫 chvharsh@gmail.com
+I'm currently focused on going deeper into **backend engineering and API architecture**, with Django and FastAPI as my primary tools.
+
+---
+
+## What I Work On
+
+* Backend architecture and REST API design
+* Django & Django REST Framework applications
+* FastAPI services and larger API systems
+* Authentication, authorization and role-based access
+* Relational database design and ORM-based applications
+* Business logic and data validation
+* Automated testing and coverage
+* Deployment and production configuration
+
+---
+
+## Selected Projects
+
+### WeCare
+
+**Home Healthcare & Caretaker Booking Platform**
+
+Team Lead · Python Backend Developer
+
+WeCare is a multi-application platform for home healthcare, caretaker bookings and operational management.
+
+I led the backend and web development while coordinating a 6-member team.
+
+**Backend**
+
+* Designed and implemented **167 FastAPI endpoints**
+* Built the API around authentication, caretaker verification, bookings, payments, refunds, complaints, reviews and SOS workflows
+* Worked with **MySQL** and REST API architecture
+* Implemented JWT-secured workflows including OTP-based check-in/check-out
+
+**Web**
+
+* Built the React/Vite admin panel
+* Developed the public landing page
+* Deployed the web applications and backend infrastructure
+
+`Python` `FastAPI` `MySQL` `REST APIs` `React` `Vite` `Railway`
+
+**Repository note:** The WeCare repositories on this account are forks because the project is distributed across my GitHub accounts. The original project repositories are maintained under `harsh-wc-es`.
+
+---
+
+### Expansio
+
+**Personal Finance & Budgeting Platform**
+
+A Django application focused on personal finance management, financial calculations and budgeting workflows.
+
+The project includes user-scoped financial data, income/expense management, EMI scheduling and financial analytics.
+
+**Highlights**
+
+* User-scoped category and transaction management
+* Income and expense workflows
+* EMI scheduling and calculations
+* Decimal-based financial calculations
+* Savings analytics and spending trends
+* Email OTP authentication
+* Validation for financial edge cases
+* **99% test coverage across 54 tests**
+
+`Python` `Django` `SQLite` `Django ORM` `Tailwind CSS` `SMTP` `Gunicorn`
+
+**Repository note:** Expansio is also maintained under my other GitHub account, `chv-1104`, so the repository appears here as a fork.
+
+---
+
+### Drafted
+
+**Social Publishing & Community Platform**
+
+A Django-based social publishing platform built around users, posts and interactions.
+
+The application covers both the core publishing workflow and the social layer around it.
+
+**Highlights**
+
+* Structured across users, posts and interactions
+* Email OTP and Google OAuth authentication
+* Post, comment, like and bookmark APIs
+* Follows and nested comments
+* Notifications
+* Dark-mode interface using Tailwind CSS
+* JSON APIs for application interactions
+
+`Python` `Django` `Django Templates` `MySQL` `SQLite` `Tailwind CSS` `REST APIs`
+
+**Repository note:** Drafted is maintained under my other GitHub account, `harsh-chv`, which is why the repository appears as a fork here.
+
+---
+
+## Engineering Focus
+
+```text
+Python
+  ├── Django / DRF
+  ├── FastAPI
+  └── REST API Design
+
+Data
+  ├── MySQL
+  ├── SQLite
+  └── Django ORM
+
+Security
+  ├── JWT
+  ├── OTP Authentication
+  ├── Google OAuth
+  └── RBAC
+
+Quality
+  ├── Unit Testing
+  ├── API Testing
+  └── Coverage Analysis
+
+Deployment
+  ├── Railway
+  ├── Gunicorn
+  └── WhiteNoise
+```
+
+---
+
+## A Few Numbers
+
+**167**
+FastAPI endpoints built for WeCare
+
+**99%**
+Test coverage achieved on Expansio
+
+**54**
+Unit tests covering authentication, CRUD, EMI logic and edge cases
+
+**6**
+Members led as part of the WeCare development team
+
+**1st**
+Place at TOPS Technologies Venture Lab
+
+---
+
+## Other GitHub Accounts
+
+Some of my projects are distributed across multiple GitHub accounts. They are **my own accounts**, which is why several repositories on this profile appear as forks.
+
+| Account                                         | Work         |
+| ----------------------------------------------- | ------------ |
+| [`harsh-wc-es`](https://github.com/harsh-wc-es) | WeCare       |
+| [`chv-1104`](https://github.com/chv-1104)       | Expansio     |
+| [`harsh-chv`](https://github.com/harsh-chv)     | Drafted      |
+| [`harshh-1104`](https://github.com/harshh-1104) | Main account |
+
+The forks are kept here so my work remains visible from my primary profile while the original repositories remain in their respective development accounts.
+
+---
+
+## Currently
+
+I'm continuing to deepen my backend development skills, particularly around:
+
+**Django · FastAPI · REST API Architecture · Database Design · Authentication · Testing · Deployment**
+
+My goal is simple: **build backend systems that are understandable, testable and reliable beyond the demo stage.**
+
+---
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/harshh-1104) · `chvharsh@gmail.com`
+
 
 
 ## 🌐 Socials:
